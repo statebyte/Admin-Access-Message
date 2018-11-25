@@ -10,7 +10,7 @@ public Plugin myinfo =
 	author = "FIVE",
 	description = "Показывает сообщение игроку, который не имеет доступа к админ-меню.",
 	version = "1.0.2",
-	url = "https://hlmod.ru/"
+	url = "https://hlmod.ru/" // Спасибо всем, кто проверял плагин!
 };
 
 public void OnPluginStart()
